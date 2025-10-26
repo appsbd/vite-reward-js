@@ -1,5 +1,5 @@
 {
-  "name": "Reward Js",
+  "name": "reward-lite",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -12,7 +12,7 @@
     "@vee-validate/rules": "^4.5.9",
     "@popperjs/core": "^2.11.5",
     "@vueform/multiselect": "^2.3.3",
-    "axios": "^0.27.2",
+    "axios": "^1.12.2",
     "bootstrap": "^5.0.2",
     "darkmode-js": "^1.5.7",
     "floating-vue": "^2.0.0-beta.17",
